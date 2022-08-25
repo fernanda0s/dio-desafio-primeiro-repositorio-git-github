@@ -1,0 +1,17 @@
+link para download do git
+-- https://git-scm.com/downloads
+
+** o git bash é um terminal extendido para otimizar o uso do git. 
+
+link para download do mysql
+-- https://dev.mysql.com/downloads/mysql/
+
+link para download do xampp
+-- https://www.apachefriends.org/download.html
+
+link (site) git hub
+-- https://github.com/
+
+** o git hub é um serviço de hosting para desenvolvimento de softwares.
+
+-- atualizado -- 
