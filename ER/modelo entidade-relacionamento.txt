@@ -23,3 +23,5 @@ São características/descrição das entidades.
 -- Atributos nulos são atributos opcionais (Ex:. Grau acadêmico)
 --  Atributos complexos são multivalorados e compostos (Ex:. Telefone-endereço)
 
+-- O que caracteriza uma entidade fraca?
+É uma chave não obrigatória, possui depências com outras entidades mais fortes (Ex:. Empregado-dependente)
