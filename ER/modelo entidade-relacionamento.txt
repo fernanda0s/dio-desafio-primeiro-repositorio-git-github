@@ -37,3 +37,10 @@ Atributos: propriedades elementares (Elipse, circulo pequeno preenchido ou não)
 Atributos de relacionamento
 -- Identificadas por losângo no diagrama.
 
+- UML - 
+Linguagem para desenvolvimento de software
+-- Caso de uso
+-- Classe (FOCO)
+-- Interação
+
+-- Relacionamentos de alto grau
