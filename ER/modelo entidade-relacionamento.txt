@@ -1,0 +1,25 @@
+-- Modelo ER --
+Atributos, entidades e relacionamentos
+
+-- Como representar a estrutura?
+Com um diagrama de entidade-relacionamento, cada elemento no diagrama possui um significado.
+
+-- Diagramas têm foco no esquema, ao fazer uma narrativa têm se valores para cada elemento
+
+-- O que são entidades?
+Entidades são objetos convertidos do mini-mundo.
+Ex:. empregado, departamento..
+
+Entidades possuem atributos.
+
+-- O que são atributos?
+São características/descrição das entidades.
+
+-- Atributos atômicos são atributos simples, são únicos e sem variações
+-- Atributos compostos são compostos por mais de um elemento (Ex:. Nome - First name, middle name, last name)
+-- Atributos multivalorados estão relacionados ao valor, possuir ou não um ou mais valores (Ex:. Idade, cor, grau acadêmico)
+-- Atributos armazenados são atributos que dificilmente vão mudar (Ex:. Data de aniversário)
+-- Atributos derivados
+-- Atributos nulos são atributos opcionais (Ex:. Grau acadêmico)
+--  Atributos complexos são multivalorados e compostos (Ex:. Telefone-endereço)
+
