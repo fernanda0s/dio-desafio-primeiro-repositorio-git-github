@@ -25,3 +25,15 @@ São características/descrição das entidades.
 
 -- O que caracteriza uma entidade fraca?
 É uma chave não obrigatória, possui depências com outras entidades mais fortes (Ex:. Empregado-dependente)
+
+- Notações -
+Entidades: classes/objetos (Retângulo)
+Relacionamentos: agregações (Losâgulo)
+Atributos: propriedades elementares (Elipse, circulo pequeno preenchido ou não)
+
+-- Constraint - cardinalidade
+-- Cardinalidade corresponde ao numero maximo de instâncias que participam de um determinado relacionamento (Ex:. 1:1, 1:N, N:1, M:1)
+
+Atributos de relacionamento
+-- Identificadas por losângo no diagrama.
+
