@@ -71,7 +71,5 @@ ESCOPO DE OFICINA MECÂNICA
 -uma OS pode ter varios tipos de peça e uma peça pode estar presente em mais de uma OS
 
 # link
-![oficina mecanica drawio](https://user-images.githubusercontent.com/111526515/189670350-7f29884b-bf71-4dd8-98d6-94840a996c05.png)
-
-
+![oficina mecanica drawio (1)](https://user-images.githubusercontent.com/111526515/189671255-1dd40100-c273-4d09-bcf8-d1ae8f7e9153.png)
 
