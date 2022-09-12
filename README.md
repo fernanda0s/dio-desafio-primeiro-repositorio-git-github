@@ -42,7 +42,6 @@ PAGAMENTO
 <br>
 - pode ter cadastrado mais de uma forma de pagamento.
 <br>
-<br>
 ENTREGA
 - possuem informações status da entrega, endereço, informações adicionais sobre o pedido e código de rastreio.
 
