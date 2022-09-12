@@ -30,3 +30,5 @@ desc information_schema.table_constraints (-- para evitar selects)
 select * from information_schema.table_constraints
 where constraint_schema = 'first_example'; (-- maneira de recuperar constraints que foram setadas)
 
+insert into(-- insere valores em uma determinada tabela) person values('2', 'Carolina','Silva', 'F', '1979-08-21', 'Rua Tal', 'Cidade J', 'RJ', 'Brasil', '26054-89');
+select * from person;
