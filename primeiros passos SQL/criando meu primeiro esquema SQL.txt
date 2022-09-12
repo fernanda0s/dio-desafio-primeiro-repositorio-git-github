@@ -32,3 +32,9 @@ where constraint_schema = 'first_example'; (-- maneira de recuperar constraints 
 
 insert into(-- insere valores em uma determinada tabela) person values('2', 'Carolina','Silva', 'F', '1979-08-21', 'Rua Tal', 'Cidade J', 'RJ', 'Brasil', '26054-89');
 select * from person;
+
+delete (-- para deletar informações das tabelas existentes) from person where person_id = 2 
+		or person_id = 3
+		or person_id = 4;
+desc favorite_food
+insert into favorite_food values (
