@@ -45,4 +45,31 @@ ESCOPO DE E-COMMERCE
 <br>
 <br>
 ESCOPO DE OFICINA MECÂNICA
+<br>
+-- A aplicação irá utilizar um banco de dados para realizar sistema de controle para uma oficina mecânica.
+<br>
+-sistema de controle e gerenciamento de execução de ordens de serviço em forma de uma oficina mecânica
+<br>
+-clientes levam veículos à oficina para serem consertados ou para passarem por revisões periódicas
+<br>
+-cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega
+<br>
+-a partir da OS é calculado o valor do serviço
+<br>
+-o valor de cada peça também compõem a OS
+<br>
+-o cliete autoriza os serviços
+<br>
+-a mesma equipe que avalia executa
+<br>
+-os mecânicos possuem código, nome endereço e especialidade
+<br>
+-cada OS possui número, data de emissão, valor, status e data para conclusão do serviço
+<br>
+-uma OS pode ser composta por um ou mais serviços
+<br>
+-uma OS pode ter varios tipos de peça e uma peça pode estar presente em mais de uma OS
+<br>
+
+
 
