@@ -9,7 +9,7 @@ desafio de projeito sobre git/github
 adicionado documento de texto (.txt) explicando sobre modelo entidade-relacionamento
 
 # DESCRIÇÃO PROJETO CONCEITUAL
-# ESCOPO DE E-COMMERCE
+ESCOPO DE E-COMMERCE
 -- A aplicação irá utilizar um banco de dados para realizar a venda de produtos, fornecendo valores e dados.
 PRODUTO
 - os produtos são vendidos por uma única plataforma online, contudo, estes podem ter vendedores distintos;
