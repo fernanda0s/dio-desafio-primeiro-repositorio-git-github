@@ -14,14 +14,12 @@ ESCOPO DE E-COMMERCE
 <br>
 -- A aplicação irá utilizar um banco de dados para realizar a venda de produtos, fornecendo valores e dados.
 <br>
-PRODUTO
 - os produtos são vendidos por uma única plataforma online, contudo, estes podem ter vendedores distintos;
 <br>
 - cada produto possui um fornecedor;
 <br>
 - um ou mais produtos podem compor um pedido.
 <br>
-CLIENTE
 - o cliente pode se cadastrar no site com seu CPF ou CNPJ;
 <br>
 - o endereço do cliente irá determinar o valor da entrega;
@@ -30,19 +28,16 @@ CLIENTE
 <br>
 - os pedidos possuem um periodo de carência para devolução do produto.
 <br>
-PEDIDO
 - os pedidos são criados por clientes e possuem informações de compra, endereço e outros;
 <br>
 - um produto ou mais compoem um pedido;
 <br>
 - o pedido pode ser cancelado.
 <br>
-PAGAMENTO
 - os pagamentos são realizados por clientes;
 <br>
 - pode ter cadastrado mais de uma forma de pagamento.
 <br>
-ENTREGA
 - possuem informações status da entrega, endereço, informações adicionais sobre o pedido e código de rastreio.
 
 # link
