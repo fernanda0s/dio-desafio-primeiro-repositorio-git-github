@@ -47,3 +47,7 @@ ENTREGA
 
 # link
 ![e-commerce drawio](https://user-images.githubusercontent.com/111526515/189658030-da6cbcf8-9bdf-4e60-8b25-da67fd56a1d1.png)
+<br>
+<br>
+ESCOPO DE OFICINA MECÂNICA
+
