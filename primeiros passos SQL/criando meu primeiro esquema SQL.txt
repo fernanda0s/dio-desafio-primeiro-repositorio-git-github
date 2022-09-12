@@ -16,3 +16,17 @@ create table person(
 	constraint pk_person primary key (person_id)
 );
 desc person; (-- retorna descrição da tabela)
+
+create table favorite_food(
+	person _id smallint unsigned,
+	food varchar(20),
+	constraint pk_favorite_food primary key (person_id, food)
+	constraint fk_favorite_food_person_id foreign key (person_id) references person(person_id)
+);
+desc favorite_food; (-- retorna descrição da tabela)
+
+show databases;
+desc information_schema.table_constraints (-- para evitar selects)
+select * from information_schema.table_constraints
+where constraint_schema = 'first_example'; (-- maneira de recuperar constraints que foram setadas)
+
