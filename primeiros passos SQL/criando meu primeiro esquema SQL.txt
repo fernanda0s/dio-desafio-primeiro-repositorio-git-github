@@ -38,3 +38,5 @@ delete (-- para deletar informações das tabelas existentes) from person where 
 		or person_id = 4;
 desc favorite_food
 insert into favorite_food values (
+
+-- atualizado --
