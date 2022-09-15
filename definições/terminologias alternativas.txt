@@ -1,0 +1,7 @@
+-- Terminologias alternativas --
+
+-- Ontologia
+Alimenta o banco de dados com informações sobre o domínio, suas propriedades e relações
+
+-- Knowledge representation (KR)
+É parte do IA, que concede agentes como pensamento e como o pensamento contribui para comportamentos inteligentes
