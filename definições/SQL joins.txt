@@ -1,0 +1,12 @@
+-- via W3Schools
+
+-- uma cláusula JOIN é usada para combinar linhas de duas ou mais tabelas, com base em uma coluna relacionada
+Ex:. SELECT orders.orderID, customers.customersName, orders.ordersDate
+FROM orders
+INNER JOIN customers ON orders.customerID=customers.customerID;
+
+-- (INNER) JOIN: retorna registros que possuem valores correspondentes em ambas as tabelas;
+-- LEFT (OUTER) JOIN: retorna todos os registros da tabela esquerda e os registros correspondentes da tabela da direta (aqueles que se encontram em ambos);
+-- RIGHT (OUTER) JOIN: retorna todos os registros da tabela da direita e os registros correspondentes da tabela da esquerda;
+-- FULL (OUTER) JOIN: retorna todos os registros quando há uma correspondência na tabela esquerda ou direita;
+
