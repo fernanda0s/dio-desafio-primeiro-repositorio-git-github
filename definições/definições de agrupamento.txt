@@ -1,0 +1,12 @@
+-- via IBM 
+
+-- a instrução GROUP BY identifica uma coluna selecionada a ser usada para agrupar os resultados. Separa os dados em grupos pelos valores da coluna especificada e retorna uma llinha de resultados para cada grupo.
+-- pode ser usado ocm mais de um nome de coluna (-- necessário separar os nomes das colunas com virgulas). 
+-- sempre colocar depois de FROM e WHERE mas antes de HAVING e ORDER BY
+
+-- a cláusula HAVING filtra resultados obtidos pela cláusula GROUP BY. 
+Ex:. HAVING COUNT(*)>4 
+
+obs: exclui do resultado final todos os departamento com quatro membros ou menos.
+
+-- a cláusula ORDER BY, como parte da instrução SELECT do SQL, pode especificar a sequência na qual as linhas selecionadas são exibidas. É possível também excluir linhas duplicadas em uma seleção.
