@@ -1,0 +1,4 @@
+-- a CASE statement passa por condições em código e retorna um valor quando a primeira condição é atendida (como uma instrução if-then-else)
+-- uma vez que a condição é verdadeira, a CASE irá parar de ler o código e irá retornar o resultado.
+-- se nenhuma condição for verdadeira, ele retornará o valor na cláusula ELSE.
+-- se não houver cláusula ELSE e nenhuma condição for verdadeira, será retornado NULL.
