@@ -73,3 +73,5 @@ ESCOPO DE OFICINA MECÂNICA
 # link
 ![oficina mecanica drawio (1)](https://user-images.githubusercontent.com/111526515/189671255-1dd40100-c273-4d09-bcf8-d1ae8f7e9153.png)
 
+# Projeto lógico - construindo meu primeiro banco de dados 
+modelagem replicada de um banco de dados para o cenário de e-commerce.
